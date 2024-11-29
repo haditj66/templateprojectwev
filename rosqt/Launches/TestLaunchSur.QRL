@@ -1,0 +1,5 @@
+QR_run world my_exe_for_my_node WorldNode 
+WaitForMilliseconds 2000
+QR_run gameobjects test_fake_world_exe Rock1 
+
+

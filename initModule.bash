@@ -1,0 +1,2 @@
+#!/bin/bash
+gnome-terminal -- sh -c "bash -c \"chmod +x ~/.bashrc ;source ~/.bashrc ;cd /home/hadi/QR_Sync/QR_Core ;source oursource.bash ;cd /home/hadi/QR_Sync/templateprojectwev/rosqt/IF ;source oursource.bash ;cd ../.. ;source oursource.bash ;cd rosqt ;ourcolcon ;source oursource.bash ; exec bash\""

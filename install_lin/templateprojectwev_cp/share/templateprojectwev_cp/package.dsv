@@ -1,0 +1,8 @@
+source;share/templateprojectwev_cp/hook/cmake_prefix_path.ps1
+source;share/templateprojectwev_cp/hook/cmake_prefix_path.dsv
+source;share/templateprojectwev_cp/hook/cmake_prefix_path.sh
+source;share/templateprojectwev_cp/local_setup.bash
+source;share/templateprojectwev_cp/local_setup.dsv
+source;share/templateprojectwev_cp/local_setup.ps1
+source;share/templateprojectwev_cp/local_setup.sh
+source;share/templateprojectwev_cp/local_setup.zsh

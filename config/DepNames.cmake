@@ -1,0 +1,3 @@
+set(MODULE_DEPENDS_CP )
+set(MODULE_DEPENDS_RQT )
+set(MODULE_DEPENDS_IF templateprojectwev)

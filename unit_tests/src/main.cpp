@@ -1,0 +1,31 @@
+//generated file: main.cpp
+//**********************************************************************
+//this is an auto-generated file using the template file located in the directory of /home/hadi/QR_Sync/CgenMin/CgenMin/FileTemplates/Files
+//ONLY WRITE CODE IN THE UserCode_Section BLOCKS
+//If you write code anywhere else,  it will be overwritten. modify the actual template file if needing to modify code outside usersection blocks.
+
+
+ //put all your includes for the tests here manually. If you dont want a test, comment it out.
+//UserCode_Sectiona
+#include "default_tests.h"
+//UserCode_Sectiona_end
+
+
+ #include "gtest/gtest.h"
+ 
+// floating point comparisons.
+//EXPECT_FLOAT_EQ (expected, actual)
+//EXPECT_DOUBLE_EQ (expected, actual)
+//EXPECT_NEAR (expected, actual, absolute_range)
+
+//strings
+// EXPECT_STREQ("h", "h");
+
+
+
+
+int main(int argc, char** argv)
+{
+    testing::InitGoogleTest(&argc, argv);
+    return RUN_ALL_TESTS();
+}

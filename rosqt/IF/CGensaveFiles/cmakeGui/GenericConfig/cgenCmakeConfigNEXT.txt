@@ -1,0 +1,5 @@
+NAME ISForQT
+			DESCRIPTION is this for QT or for a bare ROS project.
+			POSSIBLEVALUES TRUE FALSE
+			CONSTRICTS_LATER_OPTIONS 
+		

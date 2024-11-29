@@ -1,0 +1,10 @@
+QR_run gameobjects test_fake_world_exe Rock1 
+WaitForMilliseconds 1000
+QR_run gameobjects test_fake_world_exe Rock2
+WaitForMilliseconds 1000
+QR_run gameobjects test_fake_world_exe Rock3   
+WaitForMilliseconds 1000
+QR_run gameobjects test_fake_world_exe Rock4
+WaitForUserApproval
+
+

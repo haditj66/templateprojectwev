@@ -1,0 +1,13 @@
+# QtCreator CMake
+CMakeLists.txt.user*
+
+### VisualStudioCode ###
+# exclude everything
+.vscode/*
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+**/.history
+
+### every file and folder in the build directory ###
+build/

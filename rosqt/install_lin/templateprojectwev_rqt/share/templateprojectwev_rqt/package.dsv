@@ -1,0 +1,11 @@
+source;share/templateprojectwev_rqt/hook/cmake_prefix_path.ps1
+source;share/templateprojectwev_rqt/hook/cmake_prefix_path.dsv
+source;share/templateprojectwev_rqt/hook/cmake_prefix_path.sh
+source;share/templateprojectwev_rqt/hook/ld_library_path_lib.ps1
+source;share/templateprojectwev_rqt/hook/ld_library_path_lib.dsv
+source;share/templateprojectwev_rqt/hook/ld_library_path_lib.sh
+source;share/templateprojectwev_rqt/local_setup.bash
+source;share/templateprojectwev_rqt/local_setup.dsv
+source;share/templateprojectwev_rqt/local_setup.ps1
+source;share/templateprojectwev_rqt/local_setup.sh
+source;share/templateprojectwev_rqt/local_setup.zsh
