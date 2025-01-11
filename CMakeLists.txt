@@ -39,12 +39,18 @@ message("AO_TO_SET =============   ${AO_TO_SET}")
 include(${CMAKE_CURRENT_SOURCE_DIR}/config/DepNames.cmake)
 
 QR_Find_List_Of_Ros_Packages(
-    PACKAGES_INTERFACE_LIST 
+    PACKAGES_INTERFACE_LIST
     ${MODULE_DEPENDS_IF}
     PACKAGES_CPP_LIST
     ${MODULE_DEPENDS_CP}
     PACKAGES_ROSQT_LIST
     ${MODULE_DEPENDS_RQT}
+
+    NON_QR_PACKAGES_LIST
+    ${MODULE_DEPENDS_NONQR}
+    NON_QR_PACKAGES_INTERFACE_LIST
+    example_interfaces
+    std_msgs
     )
 
 

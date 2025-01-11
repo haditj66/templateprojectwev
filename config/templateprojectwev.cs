@@ -121,7 +121,7 @@ namespace templateprojectwevProject
 
     // fix QRSettings issue., generate main.cpp file, finish event subs/pubs then move on to next step
 
-    public class templateprojectwev : QRProject
+    public class templateprojectwev : QRModule
     {
          
         public class templateprojectwevSettings : TargetSettings
