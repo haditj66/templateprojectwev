@@ -54,6 +54,7 @@ QR_Find_List_Of_Ros_Packages(
     ${MODULE_DEPENDS_RQT}
 
     NON_QR_PACKAGES_LIST
+    ${MODULE_DEPENDS_NONQR}
 
     NON_QR_PACKAGES_INTERFACE_LIST
     example_interfaces
