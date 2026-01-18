@@ -17,3 +17,17 @@ rosqt/log*/
 rosqt/IF/build*/
 rosqt/IF/log*/
 
+
+# Top-level build/install
+/build/
+/install_lin/
+
+# rosqt build/install/artifacts
+/rosqt/build/
+/rosqt/install_lin/
+/rosqt/recordings/
+
+# rosqt/IF build/install
+/rosqt/IF/build/
+/rosqt/IF/install_lin/
+
